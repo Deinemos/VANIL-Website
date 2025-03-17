@@ -10,4 +10,4 @@ VANIL Beauty Salon is a modern and stylish website for a beauty salon, developed
 🔧 Technologies:
 Frontend: HTML, CSS (Flexbox, Grid, Animations), JavaScript
 Backend: PHP (form handling, request processing)
-🚀 Feedback is welcome! Feel free to leave your comments and suggestions.
+
